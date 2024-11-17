@@ -1,4 +1,4 @@
-name: TunnelBear IP Updater
+name: TorGuard IP Updater
 
 on:
   schedule:
